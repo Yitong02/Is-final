@@ -1,0 +1,40 @@
+.Tab{
+    font-size: 20px;
+    color: whitesmoke;
+}
+    
+footer{
+    background-color:black;
+}
+
+.Heading{
+    color: whitesmoke;
+    font-size: 20px;
+    
+}
+.subheading{
+    color: whitesmoke;
+    background-color: pink;
+    font-size: 40px;
+}
+body{
+    color:whitesmoke
+}
+
+body{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.viz1687584661866{
+    text-align: center;
+}
+
+head{
+    text-align: center;
+}
+
+.tableau{
+    font-weight: bold;
+    font-size: 30px;
+}
